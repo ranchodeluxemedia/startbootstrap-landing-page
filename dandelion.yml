@@ -4,7 +4,6 @@ username: deploy
 password: "@31169Ccc!!!"
 path: /var/www/html
 port: 2244
-local_path: html
 
 exclude:
     - .gitignore
